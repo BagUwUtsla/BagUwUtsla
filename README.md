@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @BagUwUtsla
-- 👀 I’m interested in anime, manga, and coding cool stuff
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on video games project
-- 📫 How to reach me : bagalamail@gmail.com
+
